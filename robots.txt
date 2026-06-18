@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://example.nl/sitemap.xml
+Sitemap: https://water-bloem-zon-10-blauw.github.io/stadsportret/sitemap.xml
